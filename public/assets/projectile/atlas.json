@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "tv": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 45,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.48333333333333334,
+        "y": 0.46875
+      }
+    },
+    "beignets": {
+      "frame": {
+        "x": 45,
+        "y": 0,
+        "w": 36,
+        "h": 27
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 27
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 27
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "taser": {
+      "frame": {
+        "x": 81,
+        "y": 0,
+        "w": 29,
+        "h": 14
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 14
+      },
+      "pivot": {
+        "x": 0.45689655172413796,
+        "y": 0.32142857142857145
+      }
+    },
+    "chaussure": {
+      "frame": {
+        "x": 110,
+        "y": 0,
+        "w": 23,
+        "h": 22
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 23,
+        "h": 22
+      },
+      "pivot": {
+        "x": 0.29347826086956524,
+        "y": 0.5909090909090909
+      }
+    },
+    "baton-policier": {
+      "frame": {
+        "x": 81,
+        "y": 14,
+        "w": 13,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 35
+      },
+      "pivot": {
+        "x": 0.1346153846153846,
+        "y": 0.44285714285714284
+      }
+    },
+    "canette": {
+      "frame": {
+        "x": 94,
+        "y": 14,
+        "w": 13,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 13,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "bouteille": {
+      "frame": {
+        "x": 45,
+        "y": 27,
+        "w": 12,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 12,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.4375,
+        "y": 0.578125
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "atlas",
+    "format": "RGBA8888",
+    "size": {
+      "w": 133,
+      "h": 59
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "immeuble1.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 99,
+        "h": 157
+      },
+      "pivot": {
+        "x": 0.06806344696969698,
+        "y": 0.9908066281847133
+      }
+    },
+    "immeuble3.png": {
+      "frame": {
+        "x": 0,
+        "y": 157,
+        "w": 84,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 84,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.09344514715608465,
+        "y": 0.9814909996345027
+      }
+    },
+    "immeuble2.png": {
+      "frame": {
+        "x": 0,
+        "y": 271,
+        "w": 117,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 117,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.06708882359924026,
+        "y": 0.9679591513087604
+      }
+    },
+    "arbre2.png": {
+      "frame": {
+        "x": 84,
+        "y": 157,
+        "w": 50,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.48809895833333317,
+        "y": 0.9830397617669754
+      }
+    },
+    "fontaine.png": {
+      "frame": {
+        "x": 84,
+        "y": 229,
+        "w": 37,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 37,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5094430367867868,
+        "y": 0.9233062582671959
+      }
+    },
+    "arbre1.png": {
+      "frame": {
+        "x": 99,
+        "y": 0,
+        "w": 30,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.4986834490740738,
+        "y": 0.9903617527173914
+      }
+    },
+    "attestation.png": {
+      "frame": {
+        "x": 99,
+        "y": 46,
+        "w": 29,
+        "h": 32
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 29,
+        "h": 32
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "buisson.png": {
+      "frame": {
+        "x": 99,
+        "y": 78,
+        "w": 33,
+        "h": 24
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 33,
+        "h": 24
+      },
+      "pivot": {
+        "x": 0.4870186237373736,
+        "y": 0.9398600260416666
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 134,
+      "h": 375
+    },
+    "scale": 1
+  }
+}
