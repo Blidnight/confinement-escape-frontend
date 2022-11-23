@@ -16,6 +16,8 @@ export class LoadingScene extends Phaser.Scene {
     }
     public async create() {
         console.log('loading-scene');
+        this.add.rectangle(0, 0, 900, 600, 0x000000).setOrigin(0);
+        this.add.text(450, 300, "Loading...").setOrigin(0.5);
         await Promise.all([
             'citoyen-1',
             'citoyen-2',

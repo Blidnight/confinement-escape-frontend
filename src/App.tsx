@@ -72,7 +72,7 @@ function App(props: { roomAccessToken : string}) {
   const controlButton = useCallback((direction : number) => {
     if (direction === 1 && offset + 10 + 1 <= entities.length) setOffset(offset + 1);
     else if (direction === -1 && offset - 1 >= 0) setOffset(offset - 1); 
-  }, [offset]);
+  }, [offset, entities]);
   const gameContainer = useRef(); 
   const [waitingModal, setWaitingModal] = useState(true);
   const [phaserGame, setPhaserGame] = useState<undefined | Phaser.Game>(undefined);
