@@ -43,7 +43,7 @@ export class CharacterRunning extends CharacterState {
             targets: [container],
             x : targetPosition[0] * 30,
             y : targetPosition[1] * 30,
-            duration : 800,
+            duration : 400,
             onUpdate: () => {
                 parent.container?.setDepth(
                     parent.container.y * 900 +
