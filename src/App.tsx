@@ -97,14 +97,12 @@ function App(props: { roomAccessToken : string}) {
   useEffect(() => {
     if (gameContainer && gameContainer.current) {
       const game = new Phaser.Game(config);
-      game.canvas.style.display = 'none';
-      
-     console.log('register-event');
+      document.querySelector('.game-canvas')?.appendChild(game.canvas);
       game.events.once('assets-ready', () => {
-        game.canvas.style.display = 'block';
+
         setPhaserGame(game);
         setReady(true);
-        document.querySelector('.game-canvas')?.appendChild(game.canvas);
+        
       })
       console.log('register event end');
    
